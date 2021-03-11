@@ -1,0 +1,17 @@
+{
+  "name": "simhi-music",
+  "version": "1.0.0",
+  "description": "Simhi Sancak music bot.",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "Simhi Sancak",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "distube": "^2.8.10",
+    "dotenv": "^8.2.0",
+    "node-opus": "^0.3.3"
+  }
+}

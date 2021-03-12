@@ -2,5 +2,5 @@
 
 Başlatmak için
 
-    npm i package.json
+    npm i 
 	node .
